@@ -1,0 +1,834 @@
+[
+    {
+        "Nama Kos": "Kost Putri/Wanita Kota Malang Istimewa, Bersih dan Aman",
+        "Harga per Bulan": 500000,
+        "Lokasi Kos": {
+            "Provinsi": "Jawa Timur",
+            "Kota": "Kota Malang",
+            "Kecamatan": "Sukun",
+            "Alamat": "Jl. Keben 1 Blok B No. 5"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Khusus Wanita",
+            "Umur Bangunan": "2 tahun",
+            "Jam Bertamu": "Bebas",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 12,
+        "Ukuran Kamar": "3 x 3",
+        "Luas Kamar": 9,
+        "Fasilitas Kamar": {
+            "AC": "tidak",
+            "Internet/ Wifi": "ya",
+            "TV": "ya",
+            "Lemari Pakaian": "ya",
+            "Kamar Mandi Dalam": "tidak",
+            "Water Heater": "tidak",
+            "Kasur": "ya",
+            "Meja Belajar": "ya",
+            "Kursi Belajar": "ya",
+            "Kulkas": "ya"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "ya",
+            "Ruang Makan": "ya",
+            "Keamanan 24 Jam": "ya",
+            "Parkir Mobil": "tidak",
+            "Parkir Motor": "ya",
+            "Dapur": "ya",
+            "Pembantu": "ya",
+            "Mesin Cuci": "tidak"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "ya",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "ya",
+            "Warteg": "ya",
+            "Restoran": "ya",
+            "Laundry Shop": "ya",
+            "Rumah Sakit": "ya",
+            "GYM": "tidak",
+            "Mall": "ya"
+        }
+    },
+    {
+        "Nama Kos": "Pelangi Dua",
+        "Harga per Bulan": 2500,
+        "Lokasi Kos": {
+            "Provinsi": "Jawa Timur",
+            "Kota": "Kota Malang",
+            "Kecamatan": "Lowokwaru",
+            "Alamat": "JL.SIMPANG GAJAYANA 575 B (BELAKANG SARDO SWALAYAN) LOWOKWARU- DINOYO MALANG"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Campur",
+            "Umur Bangunan": "18 th",
+            "Jam Bertamu": "Dibatasi",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 3,
+        "Ukuran Kamar": "4 x 4",
+        "Luas Kamar": 16,
+        "Fasilitas Kamar": {
+            "AC": "tidak",
+            "Internet/ Wifi": "tidak",
+            "TV": "tidak",
+            "Lemari Pakaian": "ya",
+            "Kamar Mandi Dalam": "ya",
+            "Water Heater": "tidak",
+            "Kasur": "tidak",
+            "Meja Belajar": "ya",
+            "Kursi Belajar": "ya",
+            "Kulkas": "tidak"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "ya",
+            "Ruang Makan": "tidak",
+            "Keamanan 24 Jam": "ya",
+            "Parkir Mobil": "ya",
+            "Parkir Motor": "ya",
+            "Dapur": "tidak",
+            "Pembantu": "tidak",
+            "Mesin Cuci": "tidak"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "ya",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "ya",
+            "Warteg": "ya",
+            "Restoran": "tidak",
+            "Laundry Shop": "ya",
+            "Rumah Sakit": "ya",
+            "GYM": "ya",
+            "Mall": "ya"
+        }
+    },
+    {
+        "Nama Kos": "Kost Putri Malang (Dflowers Kost)",
+        "Harga per Bulan": 800000,
+        "Lokasi Kos": {
+            "Provinsi": "Jawa Timur",
+            "Kota": "Kota Malang",
+            "Kecamatan": "Lowokwaru",
+            "Alamat": "Jalan Bunga Pinang Merah 2 No.16"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Khusus Wanita",
+            "Umur Bangunan": "1thn - 3thn",
+            "Jam Bertamu": "Bebas",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 30,
+        "Ukuran Kamar": "3m x 4m",
+        "Luas Kamar": 12,
+        "Fasilitas Kamar": {
+            "AC": "tidak",
+            "Internet/ Wifi": "ya",
+            "TV": "tidak",
+            "Lemari Pakaian": "ya",
+            "Kamar Mandi Dalam": "ya",
+            "Water Heater": "ya",
+            "Kasur": "ya",
+            "Meja Belajar": "ya",
+            "Kursi Belajar": "tidak",
+            "Kulkas": "ya"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "ya",
+            "Ruang Makan": "ya",
+            "Keamanan 24 Jam": "ya",
+            "Parkir Mobil": "ya",
+            "Parkir Motor": "ya",
+            "Dapur": "ya",
+            "Pembantu": "ya",
+            "Mesin Cuci": "ya"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "ya",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "ya",
+            "Warteg": "ya",
+            "Restoran": "ya",
+            "Laundry Shop": "ya",
+            "Rumah Sakit": "ya",
+            "GYM": "ya",
+            "Mall": "ya"
+        }
+    },
+    {
+        "Nama Kos": "Kost Putri Borobudur Blimbing Malang",
+        "Harga per Bulan": 500000,
+        "Lokasi Kos": {
+            "Provinsi": "Jawa Timur",
+            "Kota": "Kota Malang",
+            "Kecamatan": "Lowokwaru",
+            "Alamat": "Jl. Simpang Borobudur Utara VII/23"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Khusus Wanita",
+            "Umur Bangunan": "< 1tahun",
+            "Jam Bertamu": "Dibatasi",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 10,
+        "Ukuran Kamar": "3m x 4m",
+        "Luas Kamar": 12,
+        "Fasilitas Kamar": {
+            "AC": "tidak",
+            "Internet/ Wifi": "tidak",
+            "TV": "tidak",
+            "Lemari Pakaian": "tidak",
+            "Kamar Mandi Dalam": "tidak",
+            "Water Heater": "tidak",
+            "Kasur": "tidak",
+            "Meja Belajar": "tidak",
+            "Kursi Belajar": "tidak",
+            "Kulkas": "tidak"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "ya",
+            "Ruang Makan": "tidak",
+            "Keamanan 24 Jam": "ya",
+            "Parkir Mobil": "tidak",
+            "Parkir Motor": "ya",
+            "Dapur": "tidak",
+            "Pembantu": "tidak",
+            "Mesin Cuci": "tidak"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "ya",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "ya",
+            "Warteg": "tidak",
+            "Restoran": "ya",
+            "Laundry Shop": "ya",
+            "Rumah Sakit": "ya",
+            "GYM": "tidak",
+            "Mall": "tidak"
+        }
+    },
+    {
+        "Nama Kos": "Kost Putri \"Sembilan C\" Malang",
+        "Harga per Bulan": 600000,
+        "Lokasi Kos": {
+            "Provinsi": "Jawa Timur",
+            "Kota": "Kota Malang",
+            "Kecamatan": "Lowokwaru",
+            "Alamat": "Jl. Bendungan Sigura-Gura 5 No. 9C"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Khusus Wanita",
+            "Umur Bangunan": "1thn - 3thn",
+            "Jam Bertamu": "Dibatasi",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 16,
+        "Ukuran Kamar": "3m x 4m",
+        "Luas Kamar": 12,
+        "Fasilitas Kamar": {
+            "AC": "tidak",
+            "Internet/ Wifi": "ya",
+            "TV": "tidak",
+            "Lemari Pakaian": "ya",
+            "Kamar Mandi Dalam": "ya",
+            "Water Heater": "ya",
+            "Kasur": "tidak",
+            "Meja Belajar": "ya",
+            "Kursi Belajar": "tidak",
+            "Kulkas": "tidak"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "ya",
+            "Ruang Makan": "ya",
+            "Keamanan 24 Jam": "tidak",
+            "Parkir Mobil": "ya",
+            "Parkir Motor": "ya",
+            "Dapur": "ya",
+            "Pembantu": "ya",
+            "Mesin Cuci": "tidak"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "ya",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "ya",
+            "Warteg": "ya",
+            "Restoran": "ya",
+            "Laundry Shop": "ya",
+            "Rumah Sakit": "tidak",
+            "GYM": "ya",
+            "Mall": "ya"
+        }
+    },
+    {
+        "Nama Kos": "Kost Lis Malang",
+        "Harga per Bulan": 450000,
+        "Lokasi Kos": {
+            "Provinsi": "Jawa Timur",
+            "Kota": "Kota Malang",
+            "Kecamatan": "Sukun",
+            "Alamat": "Jalan Raya Candi 2 No. 10 A RT/RW 01/02"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Khusus Wanita",
+            "Umur Bangunan": "-",
+            "Jam Bertamu": "Dibatasi",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 5,
+        "Ukuran Kamar": "2.5X2.5",
+        "Luas Kamar": 6,
+        "Fasilitas Kamar": {
+            "AC": "tidak",
+            "Internet/ Wifi": "tidak",
+            "TV": "tidak",
+            "Lemari Pakaian": "ya",
+            "Kamar Mandi Dalam": "tidak",
+            "Water Heater": "tidak",
+            "Kasur": "ya",
+            "Meja Belajar": "ya",
+            "Kursi Belajar": "tidak",
+            "Kulkas": "tidak"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "tidak",
+            "Ruang Makan": "tidak",
+            "Keamanan 24 Jam": "ya",
+            "Parkir Mobil": "tidak",
+            "Parkir Motor": "ya",
+            "Dapur": "tidak",
+            "Pembantu": "tidak",
+            "Mesin Cuci": "tidak"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "ya",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "tidak",
+            "Warteg": "ya",
+            "Restoran": "tidak",
+            "Laundry Shop": "tidak",
+            "Rumah Sakit": "tidak",
+            "GYM": "tidak",
+            "Mall": "tidak"
+        }
+    },
+    {
+        "Nama Kos": "Palm House ITB",
+        "Harga per Bulan": 1100000,
+        "Lokasi Kos": {
+            "Provinsi": "Jawa Barat",
+            "Kota": "Kota Bandung",
+            "Kecamatan": "Bandung Wetan",
+            "Alamat": "Jalan Pelesiran No.9"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Khusus Pria",
+            "Umur Bangunan": "-",
+            "Jam Bertamu": "Dibatasi",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 40,
+        "Ukuran Kamar": "3x4",
+        "Luas Kamar": 12,
+        "Fasilitas Kamar": {
+            "AC": "tidak",
+            "Internet/ Wifi": "ya",
+            "TV": "tidak",
+            "Lemari Pakaian": "ya",
+            "Kamar Mandi Dalam": "ya",
+            "Water Heater": "ya",
+            "Kasur": "ya",
+            "Meja Belajar": "ya",
+            "Kursi Belajar": "ya",
+            "Kulkas": "tidak"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "ya",
+            "Ruang Makan": "ya",
+            "Keamanan 24 Jam": "tidak",
+            "Parkir Mobil": "tidak",
+            "Parkir Motor": "ya",
+            "Dapur": "ya",
+            "Pembantu": "tidak",
+            "Mesin Cuci": "tidak"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "ya",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "ya",
+            "Warteg": "ya",
+            "Restoran": "ya",
+            "Laundry Shop": "ya",
+            "Rumah Sakit": "tidak",
+            "GYM": "ya",
+            "Mall": "ya"
+        }
+    },
+    {
+        "Nama Kos": "Dian s Kost",
+        "Harga per Bulan": 800000,
+        "Lokasi Kos": {
+            "Provinsi": "Jawa Barat",
+            "Kota": "Kota Bandung",
+            "Kecamatan": "Coblong",
+            "Alamat": "Jalan Cisitu Indah V Dalam No. 90 A"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Khusus Wanita",
+            "Umur Bangunan": "3 tahun",
+            "Jam Bertamu": "Dibatasi",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 5,
+        "Ukuran Kamar": "3x3",
+        "Luas Kamar": 9,
+        "Fasilitas Kamar": {
+            "AC": "tidak",
+            "Internet/ Wifi": "tidak",
+            "TV": "tidak",
+            "Lemari Pakaian": "ya",
+            "Kamar Mandi Dalam": "tidak",
+            "Water Heater": "tidak",
+            "Kasur": "ya",
+            "Meja Belajar": "ya",
+            "Kursi Belajar": "tidak",
+            "Kulkas": "tidak"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "ya",
+            "Ruang Makan": "tidak",
+            "Keamanan 24 Jam": "ya",
+            "Parkir Mobil": "tidak",
+            "Parkir Motor": "tidak",
+            "Dapur": "ya",
+            "Pembantu": "tidak",
+            "Mesin Cuci": "tidak"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "tidak",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "ya",
+            "Warteg": "ya",
+            "Restoran": "tidak",
+            "Laundry Shop": "ya",
+            "Rumah Sakit": "ya",
+            "GYM": "tidak",
+            "Mall": "tidak"
+        }
+    },
+    {
+        "Nama Kos": "Kosan Kencana",
+        "Harga per Bulan": 1900000,
+        "Lokasi Kos": {
+            "Provinsi": "Jawa Barat",
+            "Kota": "Kota Bandung",
+            "Kecamatan": "Bandung Wetan",
+            "Alamat": "Jalan Wastukencana 50 A"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Campur",
+            "Umur Bangunan": "1 tahun",
+            "Jam Bertamu": "Dibatasi",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 4,
+        "Ukuran Kamar": "2,5x4",
+        "Luas Kamar": 10,
+        "Fasilitas Kamar": {
+            "AC": "ya",
+            "Internet/ Wifi": "ya",
+            "TV": "tidak",
+            "Lemari Pakaian": "ya",
+            "Kamar Mandi Dalam": "ya",
+            "Water Heater": "ya",
+            "Kasur": "tidak",
+            "Meja Belajar": "ya",
+            "Kursi Belajar": "ya",
+            "Kulkas": "ya"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "ya",
+            "Ruang Makan": "ya",
+            "Keamanan 24 Jam": "ya",
+            "Parkir Mobil": "tidak",
+            "Parkir Motor": "ya",
+            "Dapur": "ya",
+            "Pembantu": "ya",
+            "Mesin Cuci": "tidak"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "ya",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "ya",
+            "Warteg": "ya",
+            "Restoran": "ya",
+            "Laundry Shop": "ya",
+            "Rumah Sakit": "ya",
+            "GYM": "ya",
+            "Mall": "ya"
+        }
+    },
+    {
+        "Nama Kos": "Kos Khusus Pria di Sekitar Margacinta Buahbatu",
+        "Harga per Bulan": 800000,
+        "Lokasi Kos": {
+            "Provinsi": "Jawa Barat",
+            "Kota": "Kota Bandung",
+            "Kecamatan": "Buahbatu",
+            "Alamat": "Jln. Hj. Ratnamah II no. 15"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Khusus Pria",
+            "Umur Bangunan": "2",
+            "Jam Bertamu": "Dibatasi",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 12,
+        "Ukuran Kamar": "3 x 3,5",
+        "Luas Kamar": 11,
+        "Fasilitas Kamar": {
+            "AC": "tidak",
+            "Internet/ Wifi": "tidak",
+            "TV": "tidak",
+            "Lemari Pakaian": "ya",
+            "Kamar Mandi Dalam": "ya",
+            "Water Heater": "tidak",
+            "Kasur": "tidak",
+            "Meja Belajar": "tidak",
+            "Kursi Belajar": "tidak",
+            "Kulkas": "tidak"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "ya",
+            "Ruang Makan": "tidak",
+            "Keamanan 24 Jam": "ya",
+            "Parkir Mobil": "tidak",
+            "Parkir Motor": "ya",
+            "Dapur": "ya",
+            "Pembantu": "tidak",
+            "Mesin Cuci": "tidak"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "ya",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "ya",
+            "Warteg": "ya",
+            "Restoran": "ya",
+            "Laundry Shop": "tidak",
+            "Rumah Sakit": "ya",
+            "GYM": "ya",
+            "Mall": "tidak"
+        }
+    },
+    {
+        "Nama Kos": "Kosan Tubagus Ismail 12",
+        "Harga per Bulan": 2700000,
+        "Lokasi Kos": {
+            "Provinsi": "Jawa Barat",
+            "Kota": "Kota Bandung",
+            "Kecamatan": "Coblong",
+            "Alamat": "Jl Tubagus Ismail 8 Dalam No. 12"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Campur",
+            "Umur Bangunan": "New",
+            "Jam Bertamu": "Dibatasi",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 20,
+        "Ukuran Kamar": "3x4",
+        "Luas Kamar": 12,
+        "Fasilitas Kamar": {
+            "AC": "ya",
+            "Internet/ Wifi": "ya",
+            "TV": "ya",
+            "Lemari Pakaian": "ya",
+            "Kamar Mandi Dalam": "ya",
+            "Water Heater": "ya",
+            "Kasur": "tidak",
+            "Meja Belajar": "ya",
+            "Kursi Belajar": "ya",
+            "Kulkas": "tidak"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "ya",
+            "Ruang Makan": "ya",
+            "Keamanan 24 Jam": "ya",
+            "Parkir Mobil": "ya",
+            "Parkir Motor": "ya",
+            "Dapur": "ya",
+            "Pembantu": "ya",
+            "Mesin Cuci": "ya"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "ya",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "ya",
+            "Warteg": "ya",
+            "Restoran": "ya",
+            "Laundry Shop": "ya",
+            "Rumah Sakit": "ya",
+            "GYM": "tidak",
+            "Mall": "tidak"
+        }
+    },
+    {
+        "Nama Kos": "Casa Feby Bandung",
+        "Harga per Bulan": 1400000,
+        "Lokasi Kos": {
+            "Provinsi": "Jawa Barat",
+            "Kota": "Kota Bandung",
+            "Kecamatan": "Sukajadi",
+            "Alamat": "Jalan Babakan Jeruk I no. 40"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Campur",
+            "Umur Bangunan": "-",
+            "Jam Bertamu": "Dibatasi",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 36,
+        "Ukuran Kamar": "3X4",
+        "Luas Kamar": 12,
+        "Fasilitas Kamar": {
+            "AC": "tidak",
+            "Internet/ Wifi": "ya",
+            "TV": "tidak",
+            "Lemari Pakaian": "ya",
+            "Kamar Mandi Dalam": "ya",
+            "Water Heater": "tidak",
+            "Kasur": "ya",
+            "Meja Belajar": "ya",
+            "Kursi Belajar": "ya",
+            "Kulkas": "tidak"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "ya",
+            "Ruang Makan": "ya",
+            "Keamanan 24 Jam": "tidak",
+            "Parkir Mobil": "ya",
+            "Parkir Motor": "ya",
+            "Dapur": "ya",
+            "Pembantu": "tidak",
+            "Mesin Cuci": "tidak"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "ya",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "ya",
+            "Warteg": "ya",
+            "Restoran": "ya",
+            "Laundry Shop": "tidak",
+            "Rumah Sakit": "tidak",
+            "GYM": "tidak",
+            "Mall": "tidak"
+        }
+    },
+    {
+        "Nama Kos": "(AVAILABLE) New Kost TB Simatupang, blkg Gedung Antam",
+        "Harga per Bulan": 2000000,
+        "Lokasi Kos": {
+            "Provinsi": "DKI Jakarta",
+            "Kota": "Kota Jakarta Selatan",
+            "Kecamatan": "Jagakarsa",
+            "Alamat": "TB Simatupang, belakang Gdg. Antam dan Trihamas"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Campur",
+            "Umur Bangunan": "0",
+            "Jam Bertamu": "Bebas",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 12,
+        "Ukuran Kamar": "3.5x4",
+        "Luas Kamar": 14,
+        "Fasilitas Kamar": {
+            "AC": "ya",
+            "Internet/ Wifi": "ya",
+            "TV": "tidak",
+            "Lemari Pakaian": "ya",
+            "Kamar Mandi Dalam": "ya",
+            "Water Heater": "ya",
+            "Kasur": "tidak",
+            "Meja Belajar": "ya",
+            "Kursi Belajar": "ya",
+            "Kulkas": "tidak"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "tidak",
+            "Ruang Makan": "tidak",
+            "Keamanan 24 Jam": "ya",
+            "Parkir Mobil": "ya",
+            "Parkir Motor": "ya",
+            "Dapur": "ya",
+            "Pembantu": "ya",
+            "Mesin Cuci": "ya"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "ya",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "ya",
+            "Warteg": "ya",
+            "Restoran": "tidak",
+            "Laundry Shop": "ya",
+            "Rumah Sakit": "ya",
+            "GYM": "tidak",
+            "Mall": "tidak"
+        }
+    },
+    {
+        "Nama Kos": "The Green Pramuka City Apartement",
+        "Harga per Bulan": 4000000,
+        "Lokasi Kos": {
+            "Provinsi": "DKI Jakarta",
+            "Kota": "Kota Jakarta Pusat",
+            "Kecamatan": "Cempaka Putih",
+            "Alamat": "Jl. Jend. A. Yani Kav 49"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Campur",
+            "Umur Bangunan": "1 tahun",
+            "Jam Bertamu": "Bebas",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 1,
+        "Ukuran Kamar": "3m x 5m",
+        "Luas Kamar": 21,
+        "Fasilitas Kamar": {
+            "AC": "ya",
+            "Internet/ Wifi": "ya",
+            "TV": "ya",
+            "Lemari Pakaian": "ya",
+            "Kamar Mandi Dalam": "ya",
+            "Water Heater": "ya",
+            "Kasur": "tidak",
+            "Meja Belajar": "ya",
+            "Kursi Belajar": "ya",
+            "Kulkas": "ya"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "ya",
+            "Ruang Makan": "ya",
+            "Keamanan 24 Jam": "ya",
+            "Parkir Mobil": "ya",
+            "Parkir Motor": "ya",
+            "Dapur": "ya",
+            "Pembantu": "tidak",
+            "Mesin Cuci": "tidak"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "ya",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "ya",
+            "Warteg": "ya",
+            "Restoran": "ya",
+            "Laundry Shop": "ya",
+            "Rumah Sakit": "ya",
+            "GYM": "ya",
+            "Mall": "ya"
+        }
+    },
+    {
+        "Nama Kos": "Kost De2 Kalideres, Jakarta Barat",
+        "Harga per Bulan": 1500000,
+        "Lokasi Kos": {
+            "Provinsi": "DKI Jakarta",
+            "Kota": "Kota Jakarta Barat",
+            "Kecamatan": "Kali Deres",
+            "Alamat": "Citra Garden 1 G2/23 Kalideres"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Campur",
+            "Umur Bangunan": "1",
+            "Jam Bertamu": "Dibatasi",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 15,
+        "Ukuran Kamar": "3X3",
+        "Luas Kamar": 9,
+        "Fasilitas Kamar": {
+            "AC": "ya",
+            "Internet/ Wifi": "ya",
+            "TV": "tidak",
+            "Lemari Pakaian": "tidak",
+            "Kamar Mandi Dalam": "ya",
+            "Water Heater": "tidak",
+            "Kasur": "ya",
+            "Meja Belajar": "tidak",
+            "Kursi Belajar": "tidak",
+            "Kulkas": "tidak"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "ya",
+            "Ruang Makan": "ya",
+            "Keamanan 24 Jam": "ya",
+            "Parkir Mobil": "tidak",
+            "Parkir Motor": "ya",
+            "Dapur": "ya",
+            "Pembantu": "tidak",
+            "Mesin Cuci": "ya"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "ya",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "ya",
+            "Warteg": "ya",
+            "Restoran": "ya",
+            "Laundry Shop": "ya",
+            "Rumah Sakit": "ya",
+            "GYM": "ya",
+            "Mall": "ya"
+        }
+    },
+    {
+        "Nama Kos": "Kost & Homestay",
+        "Harga per Bulan": 3000000,
+        "Lokasi Kos": {
+            "Provinsi": "DKI Jakarta",
+            "Kota": "Kota Jakarta Timur",
+            "Kecamatan": "Matraman",
+            "Alamat": "Jl. Tegalan No. 3A"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Campur",
+            "Umur Bangunan": "20 th",
+            "Jam Bertamu": "Bebas",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 4,
+        "Ukuran Kamar": "5 m X 4 m",
+        "Luas Kamar": 20,
+        "Fasilitas Kamar": {
+            "AC": "ya",
+            "Internet/ Wifi": "ya",
+            "TV": "ya",
+            "Lemari Pakaian": "ya",
+            "Kamar Mandi Dalam": "ya",
+            "Water Heater": "tidak",
+            "Kasur": "tidak",
+            "Meja Belajar": "tidak",
+            "Kursi Belajar": "tidak",
+            "Kulkas": "ya"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "ya",
+            "Ruang Makan": "ya",
+            "Keamanan 24 Jam": "ya",
+            "Parkir Mobil": "ya",
+            "Parkir Motor": "ya",
+            "Dapur": "ya",
+            "Pembantu": "tidak",
+            "Mesin Cuci": "tidak"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "ya",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "ya",
+            "Warteg": "ya",
+            "Restoran": "ya",
+            "Laundry Shop": "ya",
+            "Rumah Sakit": "ya",
+            "GYM": "ya",
+            "Mall": "ya"
+        }
+    }
+]
